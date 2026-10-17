@@ -1,0 +1,6 @@
+sequence,lot_id,species,collection,valid_trays,seeds_sown,germinated,viability_percent,decision
+10,SB-A17,Barley,North Fen,2,45,37,82.2,RELEASE
+20,SB-B04,Bean,Old Quarry,2,40,24,60.0,HOLD
+30,SB-C22,Maize,Juniper Flat,3,60,27,45.0,REJECT
+50,SB-E31,Pea,Willow Bend,1,20,18,90.0,INSUFFICIENT_DATA
+60,SB-F08,Rye,Stone Field,2,40,32,80.0,RELEASE
