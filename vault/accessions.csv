@@ -1,0 +1,7 @@
+sequence,lot_id,species,collection,declared_seeds,status,min_trays
+10,SB-A17,Barley,North Fen,120,ACTIVE,2
+20,SB-B04,Bean,Old Quarry,80,ACTIVE,2
+30,SB-C22,Maize,Juniper Flat,150,ACTIVE,3
+40,SB-D09,Millet,East Shelf,60,RETIRED,2
+50,SB-E31,Pea,Willow Bend,90,ACTIVE,2
+60,SB-F08,Rye,Stone Field,50,ACTIVE,2
