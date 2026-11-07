@@ -1,0 +1,81 @@
+{
+  "audit_date": "2082-01-15",
+  "batch_count": 4,
+  "total_sown": 445,
+  "total_germinated": 393,
+  "overall_germination_percent": 88,
+  "crops": [
+    {
+      "crop": "Amaranth",
+      "batch_count": 2,
+      "total_sown": 215,
+      "total_germinated": 186
+    },
+    {
+      "crop": "Barley",
+      "batch_count": 1,
+      "total_sown": 80,
+      "total_germinated": 72
+    },
+    {
+      "crop": "Chickpea",
+      "batch_count": 1,
+      "total_sown": 150,
+      "total_germinated": 135
+    }
+  ],
+  "batches": [
+    {
+      "ledger_sequence": 1,
+      "batch_id": "SB-ALPHA",
+      "origin": "Hill Farm",
+      "crop": "Amaranth",
+      "storage_zone": "North",
+      "test_id": "GT-002",
+      "tested_on": "2082-01-10",
+      "sown": 125,
+      "germinated": 116,
+      "germination_percent": 92,
+      "disposition": "certified"
+    },
+    {
+      "ledger_sequence": 2,
+      "batch_id": "SB-BIRCH",
+      "origin": "Coast Lab",
+      "crop": "Barley",
+      "storage_zone": "East",
+      "test_id": "GT-003",
+      "tested_on": "2082-01-08",
+      "sown": 80,
+      "germinated": 72,
+      "germination_percent": 90,
+      "disposition": "certified"
+    },
+    {
+      "ledger_sequence": 3,
+      "batch_id": "SB-CLOVE",
+      "origin": "Desert Bank",
+      "crop": "Chickpea",
+      "storage_zone": "North",
+      "test_id": "GT-004",
+      "tested_on": "2082-01-12",
+      "sown": 150,
+      "germinated": 135,
+      "germination_percent": 90,
+      "disposition": "certified"
+    },
+    {
+      "ledger_sequence": 4,
+      "batch_id": "SB-EMBER",
+      "origin": "Hill Farm",
+      "crop": "Amaranth",
+      "storage_zone": "West",
+      "test_id": "GT-005",
+      "tested_on": "2082-01-15",
+      "sown": 90,
+      "germinated": 70,
+      "germination_percent": 77,
+      "disposition": "renew"
+    }
+  ]
+}
