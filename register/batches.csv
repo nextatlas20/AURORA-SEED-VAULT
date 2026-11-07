@@ -1,0 +1,10 @@
+batch_id,origin,crop,seed_count,storage_zone,active,revision
+SB-ALPHA,Hill Farm,Amaranth,120,North,yes,1
+SB-BIRCH,Coast Lab,Barley,80,East,yes,1
+SB-CLOVE,Desert Bank,Chickpea,150,North,yes,1
+SB-DORIC,Coast Lab,Barley,60,East,no,1
+SB-EMBER,Hill Farm,Amaranth,90,West,yes,1
+SB-ALPHA,Hill Farm,Amaranth,125,North,yes,2
+SB-CLOVE,Desert Bank,Chickpea,151,North,maybe,3
+SB-FROST,Polar Station,Rye,040,Cold,yes,1
+BAD-LOT,Hill Farm,Millet,40,North,yes,1
